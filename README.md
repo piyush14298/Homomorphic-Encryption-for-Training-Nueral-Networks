@@ -6,6 +6,6 @@ Such scenarios can prove to be a hurdle in developing new technologies. So we su
 
 You can check out the report attached for more details.
 
-Created By: [Piyush](https://github.com/piyush14298) and [Vishal](https://github.com/makeavish)
+Created By: [Piyush](https://github.com/piyush14298) and [Vishal Sharma](https://github.com/makeavish)
 
 Credits : [i am trask](https://iamtrask.github.io/2017/03/17/safe-ai/)
