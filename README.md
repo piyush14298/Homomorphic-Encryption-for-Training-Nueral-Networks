@@ -8,4 +8,4 @@ You can check out the report attached for more details.
 
 Created By: [Piyush](https://github.com/piyush14298) and [Vishal Sharma](https://github.com/makeavish)
 
-Credits : [i am trask](https://iamtrask.github.io/2017/03/17/safe-ai/)
+Credits : [i am trask](https://github.com/iamtrask)
